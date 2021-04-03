@@ -1,0 +1,77 @@
+.welcome h1 {
+  color: red;
+  text-align: center;
+}
+.welcome h2 {
+  color: black;
+  text-align: center;
+}
+.welcome body {
+  width: max-content;
+  height: 100 px;
+  }
+
+
+
+
+.background {
+  background-image: url(../images/band.jpeg);
+  background-color: black;
+  height: 870px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+.background-tour{
+  text-align: left;
+  color: antiquewhite;
+  float: left;
+  top: 20%;
+  width: 250px;
+}
+.background-tour h3{
+color: red;
+}
+
+
+
+.background-about{
+  text-align: left;
+  color: antiquewhite;
+  float: right;
+  top: 20%;
+  width: 250px;
+}
+.background-about h3{
+  color: red;
+}
+
+
+
+
+.background-gallary{
+  text-align: left;
+  color: antiquewhite;
+  float: ;
+  top: 20%;
+  width: 250px;
+}
+.background-gallary h3{
+color: red;
+}
+
+
+
+.background-center {
+  text-align: center;
+  color: red;
+  background-color: black;
+  width: 300px;
+  position: relative;
+  top: 0%;
+  left: 40%;
+}
