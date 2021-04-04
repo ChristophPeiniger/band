@@ -36,6 +36,9 @@
 .background-tour h3{
 color: red;
 }
+.background-tour a{
+  color: red;
+}
 
 
 
@@ -74,4 +77,16 @@ color: red;
   position: relative;
   top: 0%;
   left: 40%;
+}
+.background-center a{
+color: blanchedalmond;
+}
+
+.pictures img{
+  float: left;
+  height: 530px;
+  width: 410px;
+  padding: 20px;
+  background-color: black
+  margin: 20px;
 }
